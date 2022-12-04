@@ -1,14 +1,4 @@
-/*******
-Project/Template Name:  Freshen - Organic & Food Store HTML Template
-Template Url:  
-Author: CreativeLayers
-Author Url:
-Version: 1.0
-Description: Freshen - Organic & Food Store HTML Template
-Tag: agriculture, bakery, ecommerce, farm, food, food shop, grocery market, natural product, organic, organic farm, organic food, organic market, organic store, shop, shopping
 
-
-********/
 /* CSS Document */
 @import url(../css/jquery-ui.min.css);
 @import url(../css/fontawesome.css);
@@ -23,106 +13,9 @@ Tag: agriculture, bakery, ecommerce, farm, food, food shop, grocery market, natu
 @import url(../css/slider.css);
 @import url(../css/magnific-popup.css);
 @import url(../css/timecounter.css);
-/* @import url(../css/googlemap.css); */
 @import url(https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap);
-/* Table of contents */
+/* @import url("https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css"); */
 
-
-/*== Typography ==*/
-/* Search Overlay */
-/*== Header Top Style ==*/
-/* Header Top Search Field css home2 */
-/*== Menu Style For Home V1 & V2 ==*/
-/*== Menu Style For Home V2 ==*/
-/*== Menu Style For Home V3 ==*/
-/*== Menu Style For Home V4 ==*/
-/*== Menu Style For Home V5 ==*/
-/*== Menu Style For Home V6 ==*/
-/*== Menu Style For Home V7 ==*/
-/*== Mobile Menu Css ==*/
-/*== Home Css ==*/
-/* ==== Home 2 Main Sliders === */
-/*== Home Icon Box ==*/
-/*== Home Five Overlay Slider ==*/
-/*== School Category Courses ==*/
-/*== Feature Property ==*/
-/*== Property Cities ==*/
-/*== Search Smart Property ==*/
-/*== Single Property ==*/
-/*== Listing Single V5 Page Sticky Nav ==*/
-/*== Why Choose Us ==*/
-/*== Popular Job Categories => Icon Hover Image Box ==*/
-/*== Funfact Counter ==*/
-/*== Footer Social Widget ==*/
-/*== 1st Layout Footer ==*/
-/*== Footer Widget ==*/
-/*== Inner Pages Breadcrumb ==*/
-/*== About Page About Content ==*/
-/*== About home3 ==*/
-/*== Testimonials Grid ==*/
-/*== Blog Post Home V1 ==*/
-/*== Team Slider Code ==*/
-/*== Pricing Table Four ==*/
-/*== Our Partners ==*/
-/*== Error/404 Page ==*/
-/*== Invoice Page ==*/
-/*== Service Pages Style Code ==*/
-/*== LogIn Register Page ==*/
-/* Create a custom checkbox */
-/*== Search Widget Faq Page ==*/
-/*== Question Widget Faq Page ==*/
-/*== Terms & Condition Page ==*/
-/*== Tab Widget UI Page ==*/
-/*== Table Widget UI Page ==*/
-/*== Message Box Widget UI Page ==*/
-/*== Form Input Widget UI Page ==*/
-/*== Form Textarea Widget UI Page ==*/
-/*== Form Tooltip Widget UI Page ==*/
-/*== Select Search Box Widget UI Page ==*/
-/*== Radiobox, Checkbox, Switch Widget UI Page ==*/
-/*== CheckBox Widget UI Page ==*/
-/*== SwithcBox Widget UI Page ==*/
-/*== Select Box Widget UI Page ==*/
-/*== MultiSelect CheckBox Widget UI Page ==*/
-/*== Blog Post Main Page ==*/
-/*== Blog Grid Post ==*/
-/*== Search Widget Blog Page ==*/
-/*== Category Widget Blog Page ==*/
-/*== Recent Post Widget Blog Page ==*/
-/*== Tag Widget Blog Page ==*/
-/*== BlokQuote Blog Sinlge Page ==*/
-/*== Next Prev Pagination Blog Sinlge Page ==*/
-/*== Commenting Blog Sinlge Page ==*/
-/*== Commenting Form Blog Sinlge Page ==*/
-/*== Dashbord details Page ==*/
-/*== Header User Notification & User ID ==*/
-/*== Header User Setting ID ==*/
-/*== Candidate Job Review Page Table ==*/
-/*== My Resume Page ==*/
-/*== Message Page ==*/
-/*== DashBoard Pages ==*/
-/*== sidebar about widget ==*/
-/*== Pricing SLider ==*/
-/*== Profile Avatar ==*/
-/*== Alpha v2 Page ==*/
-/*== Testimonials Home V3 ==*/
-/*== Contact Page ==*/
-/*== Maximage_slider ==*/
-/*== Color Area ==*/
-/*== Button Area ==*/
-/*== Fonts Size, Font Weights, Height, Display & Position ==*/
-/*== Custome Margin Padding ==*/
-/*== BackGround Images ==*/
-/*== BackGround Color White Overlay ==*/
-/*== Parallax Css ==*/
-/*== Divider Css ==*/
-/*== Chart Js Css ==*/
-/*== Tags Bar Css ==*/
-/*== arrow fontawesome icon to the right */
-/*== Shop Page Style ==*/
-/*== Shop Order Page Style ==*/
-/*== Shop Chaeckout Page Style ==*/
-/*== Shop Single Page Style ==*/
 
 /*root*/
 :root{
